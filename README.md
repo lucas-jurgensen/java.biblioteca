@@ -25,7 +25,7 @@ Este projeto é um sistema simples de gerenciamento de biblioteca desenvolvido e
 
 - Clonar o repositório
 ```bash
-git clone https://github.com/seu_usuario/seu_repositorio.git
+git clone https://github.com/lucas-jurgensen/java.biblioteca.git
 ```
 
 - Compilar os arquivos `.java`
